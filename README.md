@@ -25,7 +25,7 @@ Demo live at: [demo.vercel.store](https://demo.vercel.store/)
 - Integrations - Integrate seamlessly with the most common ecommerce platforms.
 - Dark Mode Support
 
-## Integrations
+## Integration
 
 Next.js Commerce integrates out-of-the-box with BigCommerce, Shopify, Swell, Saleor and Vendure. We plan to support all major ecommerce backends.
 
